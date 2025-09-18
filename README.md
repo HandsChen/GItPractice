@@ -6,3 +6,5 @@ This project is for practicing my git skill
    选择策略：1.本地先提交，然后get fetch origin 拉最新的变更 然后git merge origin/dev，最后解决冲突以后push
 
 2. 测试手动点击同步
+
+3. 测试手动变基线
