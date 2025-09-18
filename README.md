@@ -7,4 +7,4 @@ This project is for practicing my git skill
 
 2. 测试手动点击同步
 
-3. 测试手动变基线
+3. 测试手动变基线(ver.2)
